@@ -22,6 +22,10 @@
 <table align="center">
   <tr>
     <td align="center" width="90">
+        <a href="https://www.w3schools.com/js/" target="_blank"><img alt="JavaScript" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/HTML.svg" /></a>
+        <br>Javascript
+    </td>
+    <td align="center" width="90">
         <a href="https://www.w3schools.com/js/" target="_blank"><img alt="JavaScript" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/javascript.svg" /></a>
         <br>Javascript
     </td>
@@ -62,6 +66,14 @@
       <br>React
     </td>
     <td align="center" width="90">
+        <a href="https://nodejs.org/en" target="_blank"><img alt="Node.js" width="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/node.js.gif" /></a>
+        <br>Node.js
+    </td>
+    <td align="center" width="90">
+      <a href="https://jquery.com/" target="_blank"><img alt="jQuery" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/jquery.svg" /></a>
+      <br>jQuery
+    </td>
+    <td align="center" width="90">
         <a href="https://requests.readthedocs.io/" target="_blank"><img alt="Requests" width="45" height="45" src="https://raw.githubusercontent.com/BeautifulMoon211/BeautifulMoon211/auxiliary/libraries/requests.svg" /></a>
         <br>Requests
     </td>
@@ -76,14 +88,6 @@
     <td align="center" width="90">
         <a href="https://playwright.dev/" target="_blank"><img alt="Playwright" width="45" src="https://raw.githubusercontent.com/BeautifulMoon211/BeautifulMoon211/auxiliary/libraries/playwright.svg" /></a>
         <br>Playwright
-    </td>
-    <td align="center" width="90">
-      <a href="https://jquery.com/" target="_blank"><img alt="jQuery" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/jquery.svg" /></a>
-      <br>jQuery
-    </td>
-    <td align="center" width="90">
-        <a href="https://nodejs.org/en" target="_blank"><img alt="Node.js" width="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/node.js.gif" /></a>
-        <br>Node.js
     </td>
     <td align="center" width="90">
         <a href="https://threejs.org/" target="_blank"><img alt="Three.js" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/three.js.svg" /></a>
