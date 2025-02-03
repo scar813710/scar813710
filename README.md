@@ -22,10 +22,6 @@
 <table align="center">
   <tr>
     <td align="center" width="90">
-        <a href="https://www.w3schools.com/js/" target="_blank"><img alt="JavaScript" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/HTML.svg" /></a>
-        <br>Javascript
-    </td>
-    <td align="center" width="90">
         <a href="https://www.w3schools.com/js/" target="_blank"><img alt="JavaScript" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/javascript.svg" /></a>
         <br>Javascript
     </td>
@@ -100,10 +96,6 @@
 <table align="center">
   <tr>
     <td align="center" width="90">
-        <a href="https://scrapy.org/" target="_blank"><img alt="Scrapy" width="45" height="45" src="https://raw.githubusercontent.com/BeautifulMoon211/BeautifulMoon211/auxiliary/frameworks/scrapy.svg" /></a>
-        <br>Scrapy
-    </td>
-    <td align="center" width="90">
         <a href="https://nextjs.org/" target="_blank"><img alt="Next.js" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/nextjs.svg" /></a>
         <br>Next.js
     </td>
@@ -126,6 +118,10 @@
     <td align="center" width="90">
         <a href="https://getbootstrap.com/" target="_blank"><img alt="Bootstrap" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/bootstrap.gif" /></a>
         <br>Bootstrap
+    </td>
+    <td align="center" width="90">
+        <a href="https://scrapy.org/" target="_blank"><img alt="Scrapy" width="45" height="45" src="https://raw.githubusercontent.com/BeautifulMoon211/BeautifulMoon211/auxiliary/frameworks/scrapy.svg" /></a>
+        <br>Scrapy
     </td>
     <td align="center" width="90">
     </td>
