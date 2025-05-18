@@ -3,9 +3,6 @@
 <div style="display: flex; align-items: center">
   <h1> 
     About Me
-    <a href="#--about-me--">
-      <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/star.gif" width = 35px height = 35px>
-    </a>
   </h1>
 </div>
 
