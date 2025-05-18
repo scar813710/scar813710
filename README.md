@@ -1,7 +1,7 @@
 <a href="#"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
 
-<div style="display: flex; align-items: center; justify-content: center">
-  <h1 style="width: fit-content"> 
+<div style="">
+  <h1 style="width: fit-content; text-align: center;"> 
     Full Stack Engineer
   </h1>
 </div>
